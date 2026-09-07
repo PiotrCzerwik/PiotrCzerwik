@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Piotr 👋
 
-<!--
-**PiotrCzerwik/PiotrCzerwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Specialist focused on infrastructure, networking and automation.
 
-Here are some ideas to get you started:
+I work with Windows environments, server infrastructure and business systems, while building tools that help automate repetitive tasks and make infrastructure easier to manage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies and Areas
+
+- Infrastructure & Windows Server
+- Networking & Network Services
+- PowerShell Automation
+- SQL & Database Administration
+- Active Directory & DNS
+- Monitoring & Infrastructure Documentation
+- C# Development
+
+## 🚀 Currently Working On
+
+- Building my public technical portfolio
+- PowerShell automation tools
+- Network Source of Truth and infrastructure documentation
+- Improving monitoring and automation workflows
+
+## 📌 Featured Projects
+
+### FortiGate DHCP to Windows DHCP Migrator
+
+PowerShell tools for converting FortiGate DHCP configurations into Windows Server DHCP migration scripts.
+
+→ Repository link goes here
+
+---
+
+> Building reliable infrastructure and automating the boring stuff.
+
+## 🏔 Beyond IT
+
+Outside of IT, I enjoy mountains, running, cycling and automotive projects.
+I also enjoy taking things apart, figuring out how they work and occasionally putting them back together. 🚗🔧
