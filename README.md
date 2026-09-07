@@ -27,7 +27,7 @@ I work with Windows environments, server infrastructure and business systems, wh
 
 PowerShell tools for converting FortiGate DHCP configurations into Windows Server DHCP migration scripts.
 
-→ Repository link goes here
+→ https://github.com/PiotrCzerwik/FortiGate-DHCP-to-Windows-DHCP-Migrator
 
 ---
 
@@ -35,5 +35,6 @@ PowerShell tools for converting FortiGate DHCP configurations into Windows Serve
 
 ## 🏔 Beyond IT
 
-Outside of IT, I enjoy mountains, running, cycling and automotive projects.
+Outside of IT, I enjoy spending time in the mountains, running, cycling and working on automotive projects.
+
 I also enjoy taking things apart, figuring out how they work and occasionally putting them back together. 🚗🔧
